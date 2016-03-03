@@ -18,7 +18,7 @@
 
 
 #3.图片
-[我的写真](http://pic14.nipic.com/20110522/7411759_164157418126_2.jpg)
+[我的写真](https://github.com/cnfeat/blog.io/blob/master/img/black.jpg)
 
 ========                                标题
 --------标题
